@@ -90,7 +90,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Lorenzo R.](https://github.com/L0renz008)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@L0renz008](https://www.frontendmentor.io/profile/L0renz008)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
